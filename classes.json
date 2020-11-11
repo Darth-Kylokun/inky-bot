@@ -1,0 +1,16 @@
+{
+  "token": "",
+  "classes": [
+    {
+      "name": "class name",
+      "time": "XX:XX",
+      "url": "X",
+      "text": "X"
+    }
+  ],
+  "prefix": "??",
+  "discordID": 0,
+  "channelID": 0,
+  "DM": true,
+  "CHANNEL": true
+}
